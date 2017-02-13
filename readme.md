@@ -1,5 +1,5 @@
-##Javascript trainning skills project
+#Javascript trainning skills project
 
-# first project of a javascript serie
+## first project of a javascript serie
 
-# 1º Project: Bookmarker using pure Javascript code whithout any kind of frame'magic'work
+#### 1º Project = Bookmarker using pure Javascript code whithout any kind of frame'magic'work
