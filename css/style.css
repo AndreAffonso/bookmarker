@@ -1,0 +1,25 @@
+
+header{
+	text-align: center;
+	background-image: url("../img/header-image.png");
+}
+
+h1{
+	font-size: 15px;
+}
+
+nav{
+	font-style: bold;
+}
+
+footer{
+	text-align: center;
+	padding-bottom: 0px;
+
+}
+
+p{
+	font-size: 12px;
+	text-align: justify;
+	text-indent: 50px;
+}
